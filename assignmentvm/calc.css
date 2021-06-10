@@ -1,0 +1,22 @@
+.title{
+border-radius: 15px;
+margin-bottom: 10px;
+text-align:center;
+width: 210px;
+color:grey;
+border: solid black 1px;
+}
+input[type="button"]
+{
+border-radius: 15px;
+background-color:white;
+color: grey;
+width:100%;
+}
+input[type="text"]
+{
+border-radius: 15px;
+text-align: right;
+background-color:white;
+width:100%
+}
